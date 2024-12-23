@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+a student of SZU
 <br/>
 
 # About My Github
