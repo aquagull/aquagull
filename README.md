@@ -1,5 +1,5 @@
 ## Hi there 👋
-a student of SZU
+A student of ShenZhen University
 <br/>
 
 # About My Github
