@@ -1,5 +1,5 @@
-## Hi there 👋
-A student of ShenZhen University
+## Hi, enjoy the day from now on. 👋
+I'm a student at Shenzhen University(SZU), obsessed with distributed systems, parallel computing, machine learning system.
 <br/>
 
 # About My Github
