@@ -10,7 +10,7 @@ I'm a student at Shenzhen University(SZU), obsessed with distributed systems, pa
 
 <div align="left">
 <img height='200' src="https://github-readme-stats.vercel.app/api?username=aquagull&show_icons=true&theme=tokyonight" align="center" />
-<img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquagull&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=tokyonight" align="center" />
+
 
 </div>  
 
