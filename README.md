@@ -1,5 +1,5 @@
 ## Hi, enjoy the day from now on. 👋
-I'm a student at Shenzhen University(SZU), obsessed with distributed systems, parallel computing, machine learning system.
+I'm a student at Shenzhen University (SZU) with a strong passion for distributed systems, parallel computing, and machine learning systems. I'm actively exploring these fields and always eager to connect and exchange ideas with fellow enthusiasts. I'm also particularly interested in discovering new and insightful repositories in these areas, so recommendations are highly welcome!
 <br/>
 
 # About My Github
