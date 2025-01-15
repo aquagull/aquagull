@@ -1,7 +1,7 @@
 ## Hi, enjoy the day from now on. 👋
 I'm a student at Shenzhen University (SZU) with a strong passion for **distributed systems**, **parallel computing**, and **machine learning systems**. I'm actively exploring these fields and always eager to connect and exchange ideas with fellow enthusiasts. I'm also particularly interested in discovering new and insightful repositories in these areas, so **recommendations are highly welcome**!
 
-- 📫 How to reach me: [Qmail](hongyuh@qq.com) or [Gmail](aquawheel7@gmail.com)
+- 📫 How to reach me: hongyuh@qq.com
 <br/>
 
 # About My Github
