@@ -4,17 +4,8 @@ I'm a student at Shenzhen University (SZU) with a strong passion for **distribut
 - 📫 How to reach me: hongyuh@qq.com
 <br/>
 
-# About My Github
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=aquagull&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqwlkj&layout=compact&langs_count=8&theme=cobalt)](https://github.com/hqwlkj/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=hqwlkj&show_icons=true&theme=cobalt)](https://github.com/hqwlkj/github-readme-stats)-->
-
-<div align="left">
-<img height='200' src="https://github-readme-stats.vercel.app/api?username=aquagull&show_icons=true&theme=tokyonight" align="center" />
-
-
-</div>  
 
 <br/>  
 <!--
