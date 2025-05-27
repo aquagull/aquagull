@@ -1,11 +1,7 @@
-## Hi, enjoy the day from now on. 👋
-
-- 📫 How to reach me: hongyuh@qq.com
+## _Thinking?_
 <br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=aquagull&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquagull&show_icons=true&bg_color=00000000)
 <br/>  
 <!--
 
