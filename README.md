@@ -1,4 +1,4 @@
-## _Thinking?_
+## _More thinking_
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquagull&show_icons=true&bg_color=00000000)
